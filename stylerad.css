@@ -1,0 +1,122 @@
+body
+{
+	background: #006600;
+	padding: 0;
+	margin: 0;
+}
+.box
+{
+	width: 1400px;
+	height: 75px;
+	margin: 100px auto;
+	background: #ffff00;
+	border: 100px cyan;
+	border-radius:   0px;
+	position: relative;
+}
+.box h1
+{
+	margin: 0;
+	padding: 0;
+	font-family: arial narrow;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	top: 50%;
+	color: #1a1a00;
+	transform: translateY(-50%);
+}
+.paragraph
+{
+	width: 1300px;
+	height: 450px;
+	margin: 100px auto;
+	background: #ffffff;
+	position: relative;
+	border-radius: 10px;
+}
+.paragraph p
+{
+	margin: 0;
+	padding: 0;
+	font-family: Unicode;
+	font-size: 1em;
+	text-align: center;
+	position: relative;
+	top: 50%;
+	color: #006600;
+	transform: translateY(-50%);
+}
+.frame
+{
+	width: 1300px;
+	height: 500px;
+	margin: 100px auto;
+	background: #ffffff;
+	position: relative;
+	border-radius: 10px;
+}
+.frame img
+{
+	padding-top: 70px;
+}
+.coda
+{
+	width: 1300px;
+	height: 50px;
+	margin: 100px auto;
+	background: #ffffff;
+	position: relative;
+	border-radius: 10px;
+}
+.coda h2
+{
+	margin: 0;
+	padding: 0;
+	font-family: Unicode;
+	font-size: 1em;
+	text-align: center;
+	position: relative;
+	top: 50%;
+	color: #006600;
+	transform: translateY(-50%);
+}
+.coda a
+{
+	margin: 0;
+	padding-left: 550px;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+
+
+
+
+
+
+
+
+.footer
+{
+	width: 1400px;
+	height: 75px;
+	margin: 100px auto;
+	background: #ffff00;
+	position: relative;
+	border-radius: 0px;
+}
+.footer h4
+{
+	margin: 0;
+	padding: 0;
+	font-family: Times;
+	font-size: 1.1em;
+	text-align: left;
+	position: relative;
+	top: 50%;
+	color: #1a1a00;
+	transform: translateY(-80%);
+}
